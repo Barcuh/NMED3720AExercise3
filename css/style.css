@@ -16,7 +16,7 @@ img {
 .images {
     color: white;
     display: flex;
-    flex-wrap: wrap-reverse;
+    flex-wrap: wrap;
 }
 
 div > div {
